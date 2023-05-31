@@ -1,1 +1,2 @@
 easyPWD-Generate
+pyautogui
