@@ -1,2 +1,4 @@
 easyPWD-Generate
 pyautogui
+customtkinter
+tkinter
