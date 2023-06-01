@@ -55,9 +55,7 @@ def button_function():
         
         
         
-        my_thread = threading.Thread(target=program)
-        my_thread.start()
-        my_thread.join()
+        program()
     
     else:
         
